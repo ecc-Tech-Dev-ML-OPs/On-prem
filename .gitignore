@@ -1,0 +1,33 @@
+# ─── Generated Files ─────────────────────────────────────────────────────────
+*.docx
+*.pdf
+
+# ─── OS Files ────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# ─── Editor / IDE ────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ─── Runtime / Reports (generated on server) ────────────────────────────────
+*.log
+/reports/
+hardening_report_*.txt
+housekeeping_report_*.txt
+log_management_report_*.txt
+
+# ─── Backups (generated on server) ──────────────────────────────────────────
+hardening_backup_*/
+*.bak
+
+# ─── Python Artifacts ───────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
