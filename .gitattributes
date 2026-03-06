@@ -1,4 +1,4 @@
-﻿# Force LF line endings for all shell and config files (prevent Windows CRLF issues)
+# Force LF line endings for all shell and config files (prevent Windows CRLF issues)
 * text=auto eol=lf
 
 *.sh    text eol=lf
