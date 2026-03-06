@@ -1,0 +1,8 @@
+﻿# Force LF line endings for all shell and config files (prevent Windows CRLF issues)
+* text=auto eol=lf
+
+*.sh    text eol=lf
+*.conf  text eol=lf
+*.md    text eol=lf
+*.txt   text eol=lf
+*.py    text eol=lf

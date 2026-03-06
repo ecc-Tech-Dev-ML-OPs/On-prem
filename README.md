@@ -1,4 +1,4 @@
-# 🔐 Ubuntu Server Hardening, Log Management & Housekeeping
+﻿# 🔐 Ubuntu Server Hardening, Log Management & Housekeeping
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%20|%2022.04%20|%2024.04-orange?logo=ubuntu)](https://ubuntu.com)
